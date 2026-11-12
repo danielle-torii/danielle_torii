@@ -1,23 +1,26 @@
+# Olá! Eu sou a Danielle Torii 
+# Hi! I'm Danielle Torii 
 
-# Olá! Eu sou a Danielle 
+🇧🇷 Português | 🇺🇸 English
 
-### Engenharia de Software | Análise de Dados | Business Intelligence
+---
 
-Sou formada em Engenharia de Petróleo e atualmente curso Engenharia de Software. Também estou me especializando em Engenharia de Produção e Gerenciamento de Projetos, com conclusão prevista para junho de 2027.
+## 🇧🇷 Sobre mim
 
-Tenho interesse em tecnologia, desenvolvimento de software, análise de dados e automação de processos.
+Sou Engenheira de Petróleo e atualmente curso Engenharia de Software. Também estou cursando uma pós-graduação em Engenharia de Produção e Gerenciamento de Projetos, com conclusão prevista para junho de 2027.
 
-Atualmente, venho desenvolvendo conhecimentos e projetos utilizando Python, SQL, Power BI e ferramentas de análise de dados.
+Tenho experiência profissional com planejamento, indicadores de desempenho, relatórios e análise de dados.
 
-### 🎯 Áreas de interesse
+Atualmente, estou ampliando meus conhecimentos em desenvolvimento de software, engenharia de dados e automação de processos.
+
+###  Áreas de interesse
 - Engenharia de Dados
 - Desenvolvimento de Software
-- Business Intelligence
 - Análise de Dados
+- Business Intelligence
 - Automação de Processos
 
-### 🛠️ Tecnologias e ferramentas
-
+###  Tecnologias e ferramentas
 - Python
 - SQL
 - Power BI
@@ -26,16 +29,52 @@ Atualmente, venho desenvolvendo conhecimentos e projetos utilizando Python, SQL,
 - Excel
 - Git e GitHub
 
-### 📚 Atualmente estudando
+###  Atualmente estudando
+- Python para análise de dados
+- SQL e banco de dados
+- Desenvolvimento de software
+- Tratamento e automação de dados
+
+###  Projetos
+Aqui compartilho meus projetos acadêmicos, estudos e aplicações práticas relacionados à tecnologia e análise de dados.
+
+---
+
+## 🇺🇸 About me
+
+I'm a Petroleum Engineer currently studying Software Engineering. I'm also pursuing a postgraduate degree in Production Engineering and Project Management, expected to be completed in June 2027.
+
+I have professional experience in planning, performance indicators, reporting, and data analysis.
+
+I'm currently expanding my knowledge in software development, data engineering, and process automation.
+
+###  Areas of Interest
+- Data Engineering
+- Software Development
+- Data Analytics
+- Business Intelligence
+- Process Automation
+
+###  Technologies & Tools
 - Python
-- Engenharia de Software
-- Banco de Dados
-- Desenvolvimento de aplicações
-- Análise e tratamento de dados
+- SQL
+- Power BI
+- Power Query
+- DAX
+- Excel
+- Git & GitHub
 
-### 📂 Projetos
-Aqui compartilho meus projetos acadêmicos, estudos e aplicações práticas na área de tecnologia e dados.
+###  Currently Learning
+- Python for Data Analysis
+- SQL and Database Management
+- Software Development
+- Data Processing and Automation
 
-### 🔗 Contato
+###  Projects
+Here I share my academic projects, learning journey, and practical applications related to technology and data analytics.
+
+---
+
+###  Contato | Let's Connect
 - LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/danielletorii/)
 - GitHub: [Meus projetos](https://github.com/danielle-torii)
